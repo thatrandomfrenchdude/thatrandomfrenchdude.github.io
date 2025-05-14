@@ -1,0 +1,11 @@
+{
+  "projects": [
+    "portfolio-website.json",
+    "local-agent.json",
+    "simple-whispr-transcription.json",
+    "simple-npu-chatbot.json",
+    "ai-aircraft-inspection.json",
+    "data-processing-pipeline.json",
+    "accelerometer-calibration.json"
+  ]
+}

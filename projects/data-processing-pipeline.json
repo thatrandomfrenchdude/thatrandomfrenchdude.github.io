@@ -1,0 +1,8 @@
+{
+  "title": "Modular Data Processing Pipeline",
+  "description": "Designed and built a distributed, fault-tolerant, and scalable production data processing solution capable of ingesting any tabular data structure to improved processing speeds by over 400%.",
+  "longDescription": "Created a highly scalable and fault-tolerant data processing pipeline that handles large volumes of data from Qualcomm's Product and Test Engineering fabrication data. The solution was recognized as a Top 5 Innovation across Qualcomm globally in a 2021 business review, and resulted in processing speed improvements of over 400% compared to the previous system.",
+  "technologies": ["Python", "AWS", "Big Data", "Distributed Data Processing"],
+  "featured": false,
+  "dateCompleted": "2023-02-28"
+}

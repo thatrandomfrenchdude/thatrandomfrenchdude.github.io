@@ -1,0 +1,8 @@
+{
+  "title": "Distributed Accelerometer Calibration Algorithm",
+  "description": "Developed a neural network-based algorithm and data pipeline running on distributed microcontrollers to replace physical shaking during accelerometer trim-code calculations, resulting in a 1000% reduction in test time with only 3% margin of error.",
+  "longDescription": "Developed an algorithm that uses neural networks to generate trim codes without requiring physical device manipulation, which traditionally involved shaking devices during production testing. This innovation reduced total test time by over 1000% while maintaining an impressive 3% margin of error compared to traditional methods. The solution was implemented on three distrubuted microcontrollers and integrated into the production testing workflow, dramatically improving manufacturing efficiency.",
+  "technologies": ["Python", "PyTorch", "C", "C++", "Microcontrollers", "Neural Networks", "Distributed Systems"],
+  "featured": false,
+  "dateCompleted": "2019-08-10"
+}

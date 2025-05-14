@@ -1,0 +1,8 @@
+{
+    "title": "Simple Whispr Live Captioning",
+    "description": "Live captioning using Whispr from Qualcomm AI Hub on Snapdragon X Elite.",
+    "technologies": ["Edge AI", "Python", "Whispr"],
+    "codeUrl": "https://github.com/thatrandomfrenchdude/simple-whisper-transcription",
+    "featured": false,
+    "dateCompleted": "2025-03-30"
+}

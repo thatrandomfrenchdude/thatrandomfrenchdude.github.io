@@ -1,0 +1,9 @@
+{
+  "title": "Personal Website",
+  "description": "This website! Custom built to showcase my projects, blog posts, professional experience, and more.",
+  "technologies": ["React", "JavaScript", "CSS Modules", "Responsive Design"],
+  "demoUrl": "https://thatrandomfrenchdude.com",
+  "codeUrl": "https://github.com/thatrandomfrenchdude/thatrandomfrenchdude.github.io",
+  "featured": false,
+  "dateCompleted": "2025-05-15"
+}
