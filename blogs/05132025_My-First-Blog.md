@@ -1,7 +1,7 @@
 ---
-title: My first blog
+title: Welcome to my Blog
 date: 2025-05-13
-description: My first blog
+description: My first blog!
 tags: [personal]
 ---
 
