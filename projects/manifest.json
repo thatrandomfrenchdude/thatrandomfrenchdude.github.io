@@ -6,6 +6,7 @@
     "simple-npu-chatbot.json",
     "ai-aircraft-inspection.json",
     "data-processing-pipeline.json",
-    "accelerometer-calibration.json"
+    "accelerometer-calibration.json",
+    "3d-mountain-chess.json"
   ]
 }

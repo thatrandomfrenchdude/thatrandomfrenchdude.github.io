@@ -3,7 +3,7 @@
     "description": "An extensible, modular local AI agent written in Python using LM Studio and Llama.",
     "technologies": ["Edge AI", "Agent", "Python", "LM Studio", "Llama 3"],
     "codeUrl": "https://github.com/thatrandomfrenchdude/local-agent",
-    "featured": true,
+    "featured": false,
     "dateCompleted": "2025-05-10"
 }
   
