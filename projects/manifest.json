@@ -7,6 +7,7 @@
     "ai-aircraft-inspection.json",
     "data-processing-pipeline.json",
     "accelerometer-calibration.json",
-    "3d-mountain-chess.json"
+    "3d-mountain-chess.json",
+    "smolora.json"
   ]
 }
