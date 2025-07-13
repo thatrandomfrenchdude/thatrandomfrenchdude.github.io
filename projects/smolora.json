@@ -5,6 +5,6 @@
   "technologies": ["LoRA", "Fine-Tuning", "Python"],
   "codeUrl": "https://github.com/thatrandomfrenchdude/SmoLoRA",
   "imageUrl": "/images/smolora-logo.png",
-  "featured": true,
+  "featured": false,
   "dateCompleted": "2025-06-06"
 }
