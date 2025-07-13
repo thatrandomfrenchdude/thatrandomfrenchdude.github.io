@@ -3,7 +3,6 @@
     "description": "Live captioning at the Edge using Whisper from Qualcomm AI Hub.",
     "technologies": ["Edge AI", "Python", "Whisper", "Snapdragon"],
     "codeUrl": "https://github.com/thatrandomfrenchdude/simple-whisper-transcription",
-    "imageUrl": "/images/smolora-logo.png",
     "featured": false,
     "dateCompleted": "2025-03-30"
 }
