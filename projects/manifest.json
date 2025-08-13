@@ -9,6 +9,7 @@
     "accelerometer-calibration.json",
     "3d-mountain-chess.json",
     "smolora.json",
-    "talking-to-myself.json"
+    "talking-to-myself.json",
+    "cart-pole-ppo.json"
   ]
 }
