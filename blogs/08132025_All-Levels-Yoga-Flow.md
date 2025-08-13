@@ -22,11 +22,11 @@ I've recently begun teaching a regular, all-levels yoga class on Friday at 6pm, 
 <br>**Tadasana (Mountain Pose)** - return to standing, take a few deep breaths<br><br>
 
 ### Standing Sequence 1
-**Warrior I (Virabhadrasana I)** - from standing, step one foot back and bend the front knee to 90 degrees, square hips to the front
-<br>**Warrior II (Virabhadrasana II)** - open hips and arms to the side, gaze over the front hand
-<br>**Reverse Warrior (Viparita Virabhadrasana)** - lean your torso back from Warrior II, reach the front arm overhead and back, sliding the back hand down the back leg
-<br>**Extended Side Angle (Utthita Parsvakonasana)** - return from Reverse Warrior, then lean forward and bring the front forearm to the front thigh or hand to the ground inside or outside the front foot, extending the top arm overhead
-<br>**Triangle Pose (Trikonasana)** - straighten the front leg from Extended Side Angle, reach forward with the front hand, and lower it to the shin, ankle, or ground while extending the top arm overhead<br><br>
+**Virabhadrasana I (Warrior I)** - from standing, step one foot back and bend the front knee to 90 degrees, square hips to the front
+<br>**Virabhadrasana II (Warrior II)** - open hips and arms to the side, gaze over the front hand
+<br>**Viparita Virabhadrasana (Reverse Warrior)** - lean your torso back from Warrior II, reach the front arm overhead and back, sliding the back hand down the back leg
+<br>**Utthita Parsvakonasana (Extended Side Angle)** - return from Reverse Warrior, then lean forward and bring the front forearm to the front thigh or hand to the ground inside or outside the front foot, extending the top arm overhead
+<br>**Trikonasana (Triangle Pose)** - straighten the front leg from Extended Side Angle, reach forward with the front hand, and lower it to the shin, ankle, or ground while extending the top arm overhead<br><br>
 
 ### Standing Rest
 <br>**Prasarita Padottanasana C (Wide-Legged Forward Bend)** - clasp hands behind back to open shoulders, fold forward, and let head hang heavy
@@ -34,7 +34,7 @@ I've recently begun teaching a regular, all-levels yoga class on Friday at 6pm, 
     - option to walk hands to the right/left sides one at a time and drop into a squat on each side with one leg extended<br><br>
 
 ### Standing Sequence 2
-<br>**Warrior I (Virabhadrasana I)** - from standing, step one foot back and bend the front knee to 90 degrees, square hips to the front
+<br>**Virabhadrasana I (Warrior I)** - from standing, step one foot back and bend the front knee to 90 degrees, square hips to the front
 <br>**Baddha Virabhadrasana (Humble Warrior)** - from Warrior I, interlace fingers behind back, fold forward while keeping hips square
 <br>**Anjaneyasana (High Lunge)** - raise back up from humble warrior, pivot the back heel up off the ground, and reach arms overhead
 <br>**Prayer Twist** - from high lunge, bring hands to prayer position at heart center, twist toward the bent knee side, and bring the opposite elbow to the outside of the bent knee
