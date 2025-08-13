@@ -29,12 +29,12 @@ I've recently begun teaching a regular, all-levels yoga class on Friday at 6pm, 
 <br>**Trikonasana (Triangle Pose)** - straighten the front leg from Extended Side Angle, reach forward with the front hand, and lower it to the shin, ankle, or ground while extending the top arm overhead<br><br>
 
 ### Standing Rest
-<br>**Prasarita Padottanasana C (Wide-Legged Forward Bend)** - clasp hands behind back to open shoulders, fold forward, and let head hang heavy
+**Prasarita Padottanasana C (Wide-Legged Forward Bend)** - clasp hands behind back to open shoulders, fold forward, and let head hang heavy
 <br>**Prasarita Padottanasana A (Wide-Legged Forward Bend)** - bend forward and let your hands come to the ground
     - option to walk hands to the right/left sides one at a time and drop into a squat on each side with one leg extended<br><br>
 
 ### Standing Sequence 2
-<br>**Virabhadrasana I (Warrior I)** - from standing, step one foot back and bend the front knee to 90 degrees, square hips to the front
+**Virabhadrasana I (Warrior I)** - from standing, step one foot back and bend the front knee to 90 degrees, square hips to the front
 <br>**Baddha Virabhadrasana (Humble Warrior)** - from Warrior I, interlace fingers behind back, fold forward while keeping hips square
 <br>**Anjaneyasana (High Lunge)** - raise back up from humble warrior, pivot the back heel up off the ground, and reach arms overhead
 <br>**Prayer Twist** - from high lunge, bring hands to prayer position at heart center, twist toward the bent knee side, and bring the opposite elbow to the outside of the bent knee
