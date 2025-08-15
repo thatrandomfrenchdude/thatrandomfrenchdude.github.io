@@ -1,4 +1,4 @@
-# Hi there, I'm Nick 👋🏼
+# Hi, I'm Nick 👋🏼
 
 <p>
 I build brains for machines and bridges between people. My work blends deep technical engineering with human connection, because great tech doesn’t live in a vacuum.
