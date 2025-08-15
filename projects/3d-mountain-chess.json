@@ -1,6 +1,6 @@
 {
     "title": "3D Mountain Chess",
-    "description": "Regular chess with mountain peak visualization to visualize piece positioning and depth.",
+    "description": "Regular chess with mountain peak visualization to visualize piece positioning and depth. Afternoon weekend project after chores to see what it would look like to play chess on a 3D mountain.",
     "technologies": ["Python", "Javascript", "HTML", "CSS"],
     "codeUrl": "https://github.com/thatrandomfrenchdude/3d-chess",
     "imageUrl": "/images/3d-chess-board.png",

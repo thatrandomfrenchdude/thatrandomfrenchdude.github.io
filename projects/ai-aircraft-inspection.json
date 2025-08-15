@@ -1,8 +1,7 @@
 {
   "title": "AI Aircraft Maintenance Inspection and Validation",
-  "description": "Led development of a multimodel system to automate aircraft maintenance inspection and validation for a national airline.",
-  "longDescription": "Developed a CV + Gen AI system to automate aircraft maintenance inspections for a national airline. The system leverages deep learning models to detect and classify maintenance defects, significantly improving safety and reliability. Implementation resulted in a reduction in inspection time and improved maintenance workflow efficiency.",
-  "technologies": ["PyTorch", "OpenCV", "Python", "Docker", "Kubernetes"],
+  "description": "Led development of a multimodel CV aircraft maintenance validation system deployed at LAX for Singapore airlines.",
+  "technologies": ["Python", "TypeScript", "ONNX", "Docker", "Kubernetes", "AWS"],
   "featured": false,
   "dateCompleted": "2023-09-30"
 }

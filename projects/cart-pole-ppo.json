@@ -1,6 +1,6 @@
 {
   "title": "Proximal Policy Optimization Visualized with Cart-Pole",
-  "description": "An interactive visualization of the Proximal Policy Optimization (PPO) algorithm applied to the Cart-Pole problem built from scratch using Python.",
+  "description": "An interactive visualization of the Proximal Policy Optimization (PPO) algorithm applied to the Cart-Pole problem built from scratch using Python. The model is trainable in about 20-30 mins and can be converted to ONNX format for efficienct deployment.",
   "longDescription": "An educational project that implements the Proximal Policy Optimization (PPO) algorithm from scratch to solve the Cart-Pole balancing problem. The project includes an interactive visualization that demonstrates how the PPO algorithm learns to balance the pole over time. Built using Python and popular libraries such as NumPy and Matplotlib, this project serves as a hands-on resource for understanding reinforcement learning concepts and the mechanics of PPO.",
   "technologies": ["PPO", "Reinforcement Learning", "Python"],
   "codeUrl": "https://github.com/thatrandomfrenchdude/cart-pole-ppo",
