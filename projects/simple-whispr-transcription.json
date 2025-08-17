@@ -1,8 +1,0 @@
-{
-    "title": "Simple Whisper Live Captioning",
-    "description": "Live captioning at the Edge using Whisper from Qualcomm AI Hub.",
-    "technologies": ["Edge AI", "Python", "Whisper", "Snapdragon"],
-    "codeUrl": "https://github.com/thatrandomfrenchdude/simple-whisper-transcription",
-    "featured": false,
-    "dateCompleted": "2025-03-30"
-}

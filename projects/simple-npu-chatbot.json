@@ -1,6 +1,6 @@
 {
     "title": "Simple NPU Chatbot",
-    "description": "An NPU-accelerated edge chatbot in Python for Snapdragon X Elite running via AnythingLLM.",
+    "description": "An NPU-accelerated edge chatbot in Python for Snapdragon X Elite running via AnythingLLM. Designed to be an extensible entrypoint into on-device LLM development.",
     "technologies": ["Edge AI", "Chatbot", "Python", "AnythingLLM", "Llama 3"],
     "demoUrl": "https://www.youtube.com/watch?v=Cb-TvjTV4Eg",
     "codeUrl": "https://github.com/thatrandomfrenchdude/simple-npu-chatbot",

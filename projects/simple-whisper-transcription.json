@@ -1,0 +1,8 @@
+{
+    "title": "Live Audio Transcription with AI Hub Whisper",
+    "description": "Live captioning at the Edge using a Whisper ONNX model from Qualcomm AI Hub. Uses parallelization to improve transcription speed and accuracy.",
+    "technologies": ["Edge AI", "Python", "Whisper", "Snapdragon"],
+    "codeUrl": "https://github.com/thatrandomfrenchdude/simple-whisper-transcription",
+    "featured": false,
+    "dateCompleted": "2025-03-30"
+}

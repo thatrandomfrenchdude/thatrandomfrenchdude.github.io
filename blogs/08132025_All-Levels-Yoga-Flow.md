@@ -2,12 +2,12 @@
 title: Yoga Flow from My Class on 8/8/2025
 date: 2025-08-13
 description: Here's an all levels yoga flow to get you moving and stretching.
-tags: [yoga, all levels]
+tags: [yoga]
 ---
 
 I've recently begun teaching a regular, all-levels yoga class on Friday at 6pm, and I thought it would be fun to share the flows I create for my students. Hope you find this fun, challenging, and relaxing!<br><br>
 
-### Warm-Up
+### Warm-Ups
 **Tadasana (Mountain Pose)** - close your eyes, take a few deep breaths, and set an intention for your practice
 <br>**Ardha Surya Namaskar (Half Sun Salutation)** - 4 rounds
 <br>**Utkatasana (Chair Pose)** - 2 rounds. First pass is normal: lift arms overhead, bend knees, sit back as if sitting in a chair. On the second pass, lift your heels off the ground to engage calves and core, and lower down as much as comfortable
