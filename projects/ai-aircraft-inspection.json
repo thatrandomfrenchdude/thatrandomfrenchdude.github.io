@@ -1,5 +1,5 @@
 {
-  "title": "AI Aircraft Maintenance Inspection and Validation",
+  "title": "Aicadium Inspection: Aircraft MRO Inspection and Validation",
   "description": "Led development of a multimodel CV aircraft maintenance validation system deployed at LAX for Singapore airlines.",
   "technologies": ["Python", "TypeScript", "ONNX", "Docker", "Kubernetes", "AWS"],
   "featured": false,
