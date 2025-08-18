@@ -1,6 +1,6 @@
 {
   "title": "SmoLoRA: A Lightweight LoRA Fine-Tuning Tool",
-  "description": "SmoLoRA is a Python package designed for easy fine-tuning of small language models using LoRA adapters.",
+  "description": "SmoLoRA is a Python package designed for easy fine-tuning of small language models using LoRA adapters. Exploring edge fine-tuning techniques to make the process secure and generally approachable to speed custom AI bot adoption.",
   "longDescription": "A lightweight, developer-friendly Python package for fine-tuning small language models using LoRA adapters and running on-device inference. It simplifies the process of on-device inference and model management, making it ideal for developers looking to experiment with language models without heavy dependencies. Built for flexibility and rapid prototyping, SmoLoRA allows you to train, save, load, and generate text from language models with a clean, modular architecture.",
   "technologies": ["LoRA", "Fine-Tuning", "Python"],
   "codeUrl": "https://github.com/thatrandomfrenchdude/SmoLoRA",
