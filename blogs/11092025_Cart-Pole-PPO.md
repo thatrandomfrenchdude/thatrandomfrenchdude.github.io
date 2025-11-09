@@ -64,21 +64,20 @@ Explore the codebase. The core logic lives in `src/agent.py` (PPO implementation
 ### Step 2 – Run in Example Mode with the Pre-trained Model
 
 Launch the application server:
+    ```bash
+    # Docker
+    docker-compose up
 
-```bash
-# Docker
-docker-compose up
-
-# Python
-python main.py
-```
+    # Python
+    python main.py
+    ```
 
 Open http://localhost:8080 in your browser. A pre‑trained model balances the cart‑pole, and the web UI displays live metrics.
 
 You can also explore how different model formats affect performance. The pre‑trained model is available in PyTorch, TorchScript and ONNX formats in the example folder. Run `src/compare_models.py` to compare inference speeds.
-```bash
-python src/compare_models.py
-```
+    ```bash
+    python src/compare_models.py
+    ```
 
 <br><br>
 
@@ -94,15 +93,8 @@ While training, monitor the average reward in the terminal or via the web UI. Ca
 
 Once the model is trained, you can experiment with different model formats if you are using Windows on the Snapdragon X series of chips. To convert your .pth model to .pt and .onnx for NPU acceleration, use `src/aihub_conversion.py`. For other machines, the conversion process will fail. I will update this to include Mac/Linux support in the future.
 
-<!-- ## 📊 Results & Testing
-Before training, run the comprehensive test suite with pytest or the provided scripts to ensure all components work as expected. Then, launch the training.
-
-While training, monitor the average reward in the terminal or via the web UI. Cart‑Pole is considered solved when the average reward exceeds 195 over 100 episodes. On average, this should be achieved in about 30 mins with 300 episodes. -->
-
 <br><br>
 
 ## 🧠 Conclusion
 You now have a working reinforcement learning pipeline with a built‑in visualiser that runs entirely on your machine. Try tweaking the environment physics or PPO hyperparameters in `config.yaml` to see how the performance changes. Once you have a good understanding of the system dynamics, you can use this project as a template to build your own RL environments and agents. Happy coding!
-
-<!-- convert models for mobile inference, or even port the environment to another language. Share your results or fork the repo to add new features—happy balancing! -->
 
