@@ -22,6 +22,7 @@ By running everything on-device, you maintain control over your data, reduce exp
 There are a couple steps to set up the project:
 
     1. Clone the repository and navigate into it.
+
         ```bash
         git clone https://github.com/thatrandomfrenchdude/cart-pole-ppo.git
         cd cart-pole-ppo
@@ -31,6 +32,7 @@ There are a couple steps to set up the project:
 **To use Docker:**
     
     3. Run the Docker container:
+
         ```bash
         docker-compose up
         ```
@@ -38,15 +40,18 @@ There are a couple steps to set up the project:
 **Continue if you choose Python:**
 
     3. Create and activate a virtual environment:
+
         ```bash
         python -m venv venv && source venv/bin/activate  # Windows: venv\\Scripts\\activate
         ```
     4. Install the required packages:
+
         ```bash
         pip install -r requirements.txt
         pip install -r requirements-test.txt  # for tests
         ```
     5. Run tests to ensure everything is set up correctly:
+
         ```bash
         pytest
         ```
@@ -64,6 +69,7 @@ Explore the codebase. The core logic lives in `src/agent.py` (PPO implementation
 ### Step 2 – Run in Example Mode with the Pre-trained Model
 
 Launch the application server:
+
     ```bash
     # Docker
     docker-compose up
@@ -75,6 +81,7 @@ Launch the application server:
 Open http://localhost:8080 in your browser. A pre‑trained model balances the cart‑pole, and the web UI displays live metrics.
 
 You can also explore how different model formats affect performance. The pre‑trained model is available in PyTorch, TorchScript and ONNX formats in the example folder. Run `src/compare_models.py` to compare inference speeds.
+
     ```bash
     python src/compare_models.py
     ```
